@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 // import 'package:flutter_application_1/screens/detail_screen.dart';
 // import 'package:flutter_application_1/screens/profile_screen.dart';
 // import 'package:flutter_application_1/screens/sign_in_screen.dart';
-import 'package:flutter_application_1/screens/sign_up_screen.dart';
+import 'package:wisata_candi/screens/sign_up_screen.dart';
 
 void main() => runApp(const MyApp());
 
